@@ -45,7 +45,7 @@
     <repository>
       <id>spring-releases</id>
       <name>spring-releases</name>
-      <url>http://ec2-13-232-43-15.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/spring-releases/</url>
+      <url>http://ec2-13-232-43-15.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/spring-snapshots/</url>
     </repository>
     <snapshotRepository>
       <id>spring-snapshots</id>
